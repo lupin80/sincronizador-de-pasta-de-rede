@@ -4,8 +4,8 @@ Aplicativo para Windows que sincroniza uma pasta de origem com até três destin
 
 **Versão atual: 2.9.0 · Windows 10/11 de 64 bits · Interface em português.**
 
-![Janela principal do Sincronizador de Rede, com campos de origem, destinos e lixeira](docs/imagens/tela-principal.png)
-imagens/tela-principal.png
+![Janela principal do Sincronizador de Rede, com campos de origem, destinos e lixeira](/imagens/tela-principal.png)
+
 
 *Interface da versão 2.8, com os campos vazios para a configuração inicial.*
 
