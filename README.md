@@ -68,7 +68,7 @@ A retenção padrão é de cinco dias desde o arquivamento. A limpeza reconhece 
 
 ## Documentação
 
-- [Guia do usuário](docs/GUIA_DO_USUARIO.md): configuração, bandeja, lixeira, logs e solução de problemas.
+- [Guia do usuário](/GUIA_DO_USUARIO.md): configuração, bandeja, lixeira, logs e solução de problemas.
 - [Desenvolvimento e publicação](/DESENVOLVIMENTO.md): estrutura, compilação e preparação de uma versão no GitHub.
 - [Histórico de versões](CHANGELOG.md).
 
