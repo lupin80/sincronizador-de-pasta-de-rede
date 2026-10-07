@@ -38,7 +38,7 @@ Depois de configurar os caminhos, o aplicativo abre na bandeja. Use o menu do í
 
 O botão **Comparar** e o menu **Comparar pastas** da bandeja analisam a origem e os destinos sem copiar, mover ou excluir arquivos. A prévia mostra as ações previstas e as quantidades e tamanhos por destino.
 
-![Prévia da sincronização com ações de copiar, atualizar e enviar à lixeira](docs/imagens/comparacao.png)
+![Prévia da sincronização com ações de copiar, atualizar e enviar à lixeira](/imagens/comparacao.png)
 
 *Tela do aplicativo com dados de exemplo.*
 
@@ -50,7 +50,7 @@ A comparação considera tamanho e data de modificação. A prévia é um retrat
 
 No ícone da bandeja, escolha **Sincronização automática...**, marque **Executar sincronização automaticamente**, escolha o intervalo e clique em **Salvar agendamento**.
 
-![Tela de configuração da sincronização automática](docs/imagens/sincronizacao-automatica.png)
+![Tela de configuração da sincronização automática](/imagens/sincronizacao-automatica.png)
 
 O intervalo vai de **1 minuto a 31 dias**. A primeira execução ocorre após o intervalo escolhido. A tarefa funciona enquanto o usuário estiver conectado ao Windows e usa os caminhos salvos. Disparos durante outra sincronização são ignorados.
 
@@ -69,11 +69,11 @@ A retenção padrão é de cinco dias desde o arquivamento. A limpeza reconhece 
 ## Documentação
 
 - [Guia do usuário](docs/GUIA_DO_USUARIO.md): configuração, bandeja, lixeira, logs e solução de problemas.
-- [Desenvolvimento e publicação](docs/DESENVOLVIMENTO.md): estrutura, compilação e preparação de uma versão no GitHub.
+- [Desenvolvimento e publicação](/DESENVOLVIMENTO.md): estrutura, compilação e preparação de uma versão no GitHub.
 - [Histórico de versões](CHANGELOG.md).
 
 ## Código-fonte
 
 Os fontes estão em [`src/`](src/). Para executar ou compilar, use Windows de 64 bits, Python 3.12 ou posterior com Tkinter e as dependências fixadas em `src/requirements-build.txt`. A geração do instalador usa Inno Setup 6.
 
-Consulte o [guia de desenvolvimento](docs/DESENVOLVIMENTO.md) para os comandos e os arquivos gerados.
+Consulte o [guia de desenvolvimento](/DESENVOLVIMENTO.md) para os comandos e os arquivos gerados.
